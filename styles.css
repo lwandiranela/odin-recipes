@@ -1,0 +1,11 @@
+.zebra{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.butterfly{
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+    background-color: rgb(224, 138, 252);
+}
