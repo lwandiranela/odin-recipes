@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    background-color: rgb(229, 152, 102);
+    font-size: 40px
+}
+
+h3{
+    font-size: 28px;
+}
+
+p, li{
+    font-size: larger;
+}
