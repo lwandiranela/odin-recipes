@@ -9,3 +9,9 @@
     font-size: 45px;
     background-color: rgb(224, 138, 252);
 }
+
+div{
+    width: 40%;
+    margin-left: 400px;
+    margin-top: 50px;
+}
