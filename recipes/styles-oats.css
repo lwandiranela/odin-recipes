@@ -6,8 +6,29 @@ h1{
 
 h3{
     font-size: 28px;
+    text-align: center;  
+}
+
+p{
+    text-align: center;
+    padding-bottom: 10px; 
 }
 
 p, li{
     font-size: larger;
+}
+
+img{
+    height: auto;
+    width: 400px;
+    margin-left: 400px;
+}
+
+.unicorn{
+    margin-left: 400px;
+    padding-bottom: 10px;
+}
+
+.starface{
+    margin-left: 200px
 }
