@@ -6,6 +6,12 @@
 
 h3{
     font-size: 28px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    padding-bottom: 10px;
 }
 
 p, li{
@@ -15,4 +21,17 @@ p, li{
 img{
     height:auto;
     width: 400px;
+    margin-left: 400px
+}
+
+.sunshine{
+    margin-left: 450px;
+}
+
+.butterfly{
+    margin-left: 200px;
+}
+
+.sunshine, ul{
+    padding-bottom: 10px;
 }
